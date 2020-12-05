@@ -1,0 +1,89 @@
+body {
+    background: #282828;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+    margin: 0;
+}
+
+h2, h3, p {
+    margin: 0;
+}
+
+#hdr {
+    min-height: 220px;
+    padding-top: 3em;
+    padding-right: 1.0em;
+    padding-left: 1.0em;
+    
+}
+
+.hdr-bg {
+    background: url('../images/markus-spiske-466ENaLuhLY-unsplash.jpg');
+    background-position: center;
+    background-repeat:repeat;
+    height: 260px;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.3;
+    margin: 0;
+}
+
+.dest {
+    background: #FF0000;
+}
+
+img {
+    width: 100%;
+}
+
+.dest {
+    width: 40%;
+    display: inline-block;
+}
+
+.btn {
+    text-decoration: blink;
+    color: white;
+    padding: 1em 2em;
+    border: 1px;
+    display: inline-block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.btn:hover{
+    background: #FA0000;
+}
+
+footer {
+    background: #282828;
+    color: black;
+    height: 50px;
+    line-height: 50px;
+    
+}
+
+
+h2, h3 {
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+.contact {
+    background:  #282828;
+    min-height: 100px;
+}
+
+.prices {
+    background:#282828;
+    min-height: 100px;
+    
+    
+}
+
+section {
+    padding-bottom: 1.5em;
+    
+}
